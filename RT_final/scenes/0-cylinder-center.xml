@@ -1,0 +1,5 @@
+<world ambient="10%" name="0-cylinder-center" />
+<screen width="800" height="400" />
+<light position="(0, 0, -50)" />
+<camera position="(0.0, 0.0, -50.0)" lookat="(0, 0, 0)" />
+<cylinder position="(0, 0, 0)" axe="(0.0, 1.0, 0.0)" rayon="5.0" rotation="(60.0,0.0,0.0)" translation="(5.0,-5.0,0.0)" />
