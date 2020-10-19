@@ -1,0 +1,5 @@
+<world ambient="10%" name="RT- Sphere center" />
+<screen resolution="20%" />
+<light position="(0, 0, -100)" />
+<camera position="(0.0, 0.0, -50.0)" lookat="(0, 0, 0)" filter="sepia" />
+<sphere position="(20, 0, 0)" rayon="8" noise="perlin" />
